@@ -1,0 +1,13 @@
+# Alexei Pacholuk
+# 3/1/21
+
+
+#Constants
+API_KEY = "7yaED3exdseHYTD1VmogWlDbs"
+API_SECRET_KEY = "maGAjiZR8rJxo7rkZV8kEErFvHuY8Hl4aV8zxXEq8BIqUeO1zf"
+ACCESS_TOKEN = "1366218905857916929-Y0VZ20n5wyp8pzzuNpjh0myFvbNnKq"
+ACCESS_TOKEN_SECRET = "9g1pFZePGmCO8NHGmgM0kyIbU1TfMBnT6WrXPbUIcesvf"
+#BEARER_TOKEN = AAAAAAAAAAAAAAAAAAAAAPDuNAEAAAAA8H2OX%2FUs8bgLZoD3iBQCLhGtYKc%3DIXZyots1J6NVMpiMTplvUTbtnmbbUNQb4A5HcCZuSWUcm0XSU8
+
+#-----------------------------------------------------
+
